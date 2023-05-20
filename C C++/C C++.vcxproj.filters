@@ -1,0 +1,133 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="! 1부터 n까지의 합.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="! Ascii.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="! 최댓값 최소값.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="! 프로그래밍 표기법.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="! 기타 기능 코드.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Blocking Non-Blocking 키 입력.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="call by.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="continue.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="rand함수와 예시.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="size of.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="typedef.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="while문.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="매크로.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="메모리 공간과 변수의 종류.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="문자열.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="반복문 for.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="배열.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="범용 포인터.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="복합 대입연산자.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="비교 연산자.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="산술 연산자.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="삼항 연산자.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="상수 지시 포인터.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="상수의 형태와 논리 연산자.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="시프트 연산자.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="실수를 저장하는 법.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="열거형 Enum.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="오버 헤드와 인라인 함수.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="오버 플로우 언더 플로우.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="자료형 변환.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="자료형.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="재귀함수.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="조건문 if.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="switch.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="주소 연산자.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="증감 연산자.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="포인터 연산.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="포인터.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
